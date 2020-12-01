@@ -1,8 +1,8 @@
-# Segmentation of Hard Exudates
-This directory comprises code to preprocess, train, test and evaluate our model. The implementation is based on Tensorflow.
+# Segmentation of Diabetic Retinopathy Images
+This directory comprises code to preprocess, train, test and evaluate the model. The implementation is based on Tensorflow.
 
 ## Requirements
-You need to have the following python packages installed (may be incomplete):
+You need to have the following python packages installed:
 
 * tensorflow
 * opencv
@@ -13,7 +13,7 @@ You need to have the following python packages installed (may be incomplete):
 * PIL
 * pandas
 
-You need to have downloaded at least the IDRiD training dataset.
+You need to have downloaded the IDRiD training dataset.
 
 ## How to use
 
